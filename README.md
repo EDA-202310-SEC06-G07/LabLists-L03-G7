@@ -33,8 +33,8 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
 1. Juan José Quintero Sarmiento, jj.quinteros1@uniandes.edu.co 
-1. kalia Gonzalez, KaliaGonzalez@uniandes.edu.co
-1. Samara martinez, Samara-MJ@uniandes.edu.co 
+1. kalia Gonzalez, k.gonzalezj@uniandes.edu.co
+1. Samara Martínez, s.martinezj@uniandes.edu.co 
 
 [Back to top](#sample-list)
 
